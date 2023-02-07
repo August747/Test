@@ -16,4 +16,4 @@ paper_list = [
     ('C4', 229, 324),
 ]
 
-# inf_paper_list = (deep_dark_functions.area_of_the_paper(paper_list))
+inf_paper_list = (deep_dark_functions.area_of_the_paper(paper_list))
